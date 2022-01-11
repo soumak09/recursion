@@ -1,8 +1,4 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in t// { Driver Code Starts
+// { Driver Code Starts
 //Initial template for C++
 
 #include <bits/stdc++.h>
@@ -68,17 +64,4 @@ int main(){
         }
         cout<<"\n";
     }
-}	  // } Driver Code Endshis editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-    cout<<"Hello World";
-
-    return 0;
-}
+}	  // } Driver Code Ends
